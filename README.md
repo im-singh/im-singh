@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @im-singh
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently working on MERN stack
 - 💞️ I’m looking to collaborate on project ideas.
 - 📫 Mail me for more mohindersinghm8@gmail.com
 
